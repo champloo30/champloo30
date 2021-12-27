@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @champloo30
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software and web development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me djld30@gmail.com
