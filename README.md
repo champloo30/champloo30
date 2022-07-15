@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @champloo30
 - 👀 I’m interested in software and web development
 - ✌🏾 My current stack is: HTML/CSS, Sass, JavaScript, React.js
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js, Express.js, and MongoDB
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me djld30@gmail.com
